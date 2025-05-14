@@ -1,7 +1,5 @@
 # ERwin Process Modeler r7 - Архивные версии
 
-![ERwin Logo](https://raw.githubusercontent.com/katarymba/ERWin/main/images/erwin-logo.png)
-
 ## О проекте
 
 Данный репозиторий содержит инсталляторы и дополнительные материалы для установки старых версий ERwin Process Modeler r7. Предоставленные материалы позволяют установить и использовать:
